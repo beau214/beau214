@@ -1,12 +1,7 @@
 Hello, I'm Beau Williams.  
-Currently a Senior CS student with May 2023 graduation target/
-Interested in web/software development. Currently learning Fullstack development.
-Alright with HTML/CSS/Javascript/Java, but trying to improve all areas. 
 
-This profile currently is repos for The Odin Project projects, but hopefully soon will have personal projects.
+I am a recent graduate of Computer Science with a strong focus on back-end development, particularly in Java and Spring Boot. With a passion for creating efficient and scalable software solutions, I am dedicated to utilizing cutting-edge technology to deliver high-quality products. As a self-motivated individual with excellent problem-solving skills, I am constantly seeking new challenges and opportunities for growth.
 
-Open to advice/collab.
-
-Email: beaumatthewATgmailDOTcom
+Email: beaumatthew214ATgmailDOTcom
 
 
